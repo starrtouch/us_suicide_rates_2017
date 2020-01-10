@@ -1,4 +1,4 @@
-<h1 id="us_suiciderates_2017">us<em>suicide</em>rates_2017</h1>
+<h1 id="us_suiciderates_2017">us_suicide_rates_2017</h1>
 
 <p>Imported tab delimited data from CDC - Wonder -Program
 Centers for Disease Control and Prevention, National Center for Health Statistics. 
