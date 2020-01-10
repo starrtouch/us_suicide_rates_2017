@@ -1,6 +1,6 @@
-<h1 id="ussuiciderates_2017">us<em>suicide</em>rates_2017</h1>
+<h1 id="us_suiciderates_2017">us<em>suicide</em>rates_2017</h1>
 
-<p>import tab delimited data from CDC - Wonder -Program
+<p>Imported tab delimited data from CDC - Wonder -Program
 Centers for Disease Control and Prevention, National Center for Health Statistics. 
 Underlying Cause of Death 1999-2017 on CDC WONDER Online Database, released December, 2018. 
 Data are from the Multiple Cause of Death Files, 1999-2017, as compiled from data provided 
